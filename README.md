@@ -28,4 +28,4 @@ which is a very easy & time saving task in comparison to the former one. <br>
 To get the value of f(A) we use the following relation. <br>
 **f(A) = Pf(D)P<sup>-1</sup>** <br>
 where P is the modal matrix, matrix of eigen vectors of A, and <br>
-D is the diagonal matrix.
+D is the diagonal/spectral matrix.
